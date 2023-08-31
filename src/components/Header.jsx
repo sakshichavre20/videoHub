@@ -21,6 +21,7 @@ const Header = () => {
   return (
     <>
       <Button
+        zIndex={'overlay'}
         position="fixed"
         top="4"
         left="4"
