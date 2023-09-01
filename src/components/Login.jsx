@@ -40,7 +40,7 @@ const Login = () => {
             <Link to="/forgertpassword">Forget Password?</Link>
           </Button>
           <Button variant="ghost" colorScheme="purple" type="submit">
-            <Link to="/home">Login</Link>
+            <Link to="/">Login</Link>
           </Button>
           <Text textAlign={'right'}>
             New User?{' '}

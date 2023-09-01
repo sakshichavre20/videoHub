@@ -46,7 +46,7 @@ const Signup = () => {
           />
 
           <Button variant="ghost" colorScheme="purple" type="submit">
-            <Link to="/home">Login</Link>
+            <Link to="/">Login</Link>
           </Button>
           <Text textAlign={'right'}>
             Existing User?{' '}
